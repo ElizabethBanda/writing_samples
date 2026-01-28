@@ -1,4 +1,4 @@
-# Overview of writing samples
+# Overview
 
 This repository contains writing samples prepared to demonstrate my ability to synthesize scientific literature, analyze data-driven concepts, and clearly communicate research findings.
 
