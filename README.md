@@ -1,6 +1,6 @@
 # Overview of writing samples
 
-This repository contains writing samples prepared to demonstrate my ability to synthesize literature, analyze data concepts and communicate scientific findings.
+This repository contains writing samples prepared to demonstrate my ability to synthesize scientific literature, analyze data-driven concepts, and clearly communicate research findings.
 
 ## Samples Description
 
