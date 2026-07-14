@@ -9,3 +9,4 @@ This repository contains writing samples prepared to demonstrate my ability to s
 
 ### "Mobile DNA Activity in Parkinson’s Disease: A Locus-Specific View of Endogenous Retroviruses"
 - researchday_abstract_EBA.pdf: This writing sample was developed for GWSPH Research Day and focuses on dysregulated HERV loci in PD and transcriptional pathogenesis.
+- bioArxiv preprint: https://doi.org/10.64898/2026.07.03.736370
